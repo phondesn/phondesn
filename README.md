@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubham Phonde.
 - 👀 I’m interested in developing web applications.
 - 🌱 I've recently completed CDAC course from 'Sunbeam Institute of Information Technology, Pune'.
-- 💞️ I’m looking to collaborate on software developer role.
+- 💞️ I’m looking to work on software developer role.
 - 📫 To reach me pin me on linkedin - https://www.linkedin.com/in/phondesn/ .
 
 <!---
